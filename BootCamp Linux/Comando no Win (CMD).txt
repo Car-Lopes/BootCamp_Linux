@@ -1,0 +1,2 @@
+comando no CMD para verificar os recursos 
+bcdedit

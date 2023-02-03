@@ -1,0 +1,18 @@
+Video da Evolução do Sistema Operacional 
+https://youtu.be/eJuvKn5j_kE
+
+
+Baixando e Instalando o Ubuntu Usado nos estudos
+https://ubuntu.com
+
+Baixando e Instalando a VM (VirtualBox) Usado nos estudos
+https://www.virtualbox.org
+
+Caso queira utilizar uma VM em nuvel a AWS disponibiliza isso gratuitamente porem com algumas horas precisa criar uma conta na AWS (Amazon WEB Service)
+https://aws.amazon.com
+
+
+Para utilizar o WSL 
+https://docs.microsoft.com/pt-br/windows/wsl/about
+
+

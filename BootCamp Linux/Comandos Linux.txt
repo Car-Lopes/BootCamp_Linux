@@ -1,0 +1,76 @@
+Comando para reiniciar a maquina
+=> reboot ou sudo reboot
+
+Desligando a maquina porem tem que passar o tempo conforme o exemplo utilizei 0 para desliga agora se eu quisese em 5 minutos passaria o 5 no lugar do 0
+=> shutdown 0
+
+
+comando para lista os IPs
+ip a    (o a é para mostrar todos os IPs)
+
+
+comando para installar serviço de acesso remoto openssh
+sudo apt-get install openssh-server
+
+
+comando para verificar qual o diretorio que esta
+pwd 
+
+comando para mudar de diretorio 
+cd /    - Indo para RAIZ 
+cd    - para navegar entre os diretorios 
+cd ..  - volta uma diretorio anterior 
+
+comando para verificar os arquivos e diretorios que contem dentro de algum diretorio
+ls 
+
+
+comando para limpar a tela 
+clear ou usar o atalho CTRL+L
+
+Comando para listar os arquivo em lista 
+ls | more
+
+CTRL + C (Para sair do more)
+
+
+Comando para criar arquivo 
+touch arquivo1.txt (Aonde (arquivo1) é o nome do arquivo e (.txt) é a estensão)
+
+
+Localizando(Buscando) arquivos que não sabemos aonde esta 
+find -name nomearquivo (Aonde (nomearquivo é o nome ou pelo menos parte dele))
+exemplo 
+find -name arq*  ou find -name arquivo1.txt
+
+
+Criando diretorios 
+mkdir /nomediretorio 
+
+se precisar criar diretorio com espaco 
+mkdir 'meus documentos'
+
+
+Excluindo arquivos e diretorios
+rmdir diretorio (diretorio é o nome do diretorio) Só da para excluir diretorio se estiver vazio e se nao estiver dentro dele 
+
+rm arquivo.txt (arquivo.txt é o nome do arquivo) 
+
+
+Para excluir  diretório e arquivo de uma vez 
+rm -rf nomeDiretorio  (Esse comando exclui tudo que existe dentro do diretório e o próprio diretório passado)
+
+
+obtendo ajuda para saber mais sobre diretorio ou arquivo ou deteminado item 
+ls --help 
+
+Para retornar objetivos ocultos
+ls -a
+
+
+
+
+
+
+
+ 
