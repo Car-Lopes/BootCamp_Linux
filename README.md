@@ -15,6 +15,16 @@
  ##### Criando Diretorios
  ##### Excluindo Arquivos e Diretorios
  ##### Obtendo ajuda (help) dos comando 
+ ##### Liberando o Super usuario para acesso remoto
+ ##### Comando history (Que arqmeza comandos do usuario)
+ ##### Gerenciando Usuarios
+  ###### >>> Criando e Excluindo Usuarios
+  ###### >>> Editando informações de Usuarios
+  ###### >>> Criando Usuarios em Lote
+  ###### >>> Adicionando Usuarios a grupos
+  ###### >>> Criando e excluindo novos grupos
+  ###### >>> Permissoes
+
 
 
 # Slides

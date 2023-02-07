@@ -25,3 +25,5 @@ comando de adm
 sudo mkdir aula (sudo (comando de adm) mkdir (comando para criar diretorio) aula (nome do diretorio))
 
 
+
+

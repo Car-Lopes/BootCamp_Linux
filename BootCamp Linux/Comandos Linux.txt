@@ -69,7 +69,23 @@ ls -a
 
 
 
+Para trocar com usuatio 
+su (para acessar com o root)
+su carlos (Para acessar com o usuario carlos)
 
+
+
+Comando para verificar os utlimos 1.000 comando do usuario
+armazena os comandos do usuario os 1000 comando recentes
+history
+
+
+
+Criando Usuários 
+useradd Nome_Logon (Nome_Logon é o nome que acessara o sistema)
+
+Para excluir Usuario 
+Userdel -f Nome_Logon (-f é para forçar a ação )
 
 
 
