@@ -18,11 +18,10 @@ https://docs.microsoft.com/pt-br/windows/wsl/about
 Para acessar help quais o tipo de ajuda do sistema 
 help.ubuntu.com
 
-Para ler o arquivo 
-cat /etc/group ( comando (at) diretorios /etc/group)
 
-comando de adm
-sudo mkdir aula (sudo (comando de adm) mkdir (comando para criar diretorio) aula (nome do diretorio))
+
+www.redhat.com
+
 
 
 

@@ -43,6 +43,13 @@ find -name nomearquivo (Aonde (nomearquivo é o nome ou pelo menos parte dele))
 exemplo 
 find -name arq*  ou find -name arquivo1.txt
 
+Para ler o arquivo 
+cat /etc/group ( comando (at) diretorios /etc/group)
+
+comando de adm
+sudo mkdir aula (sudo (comando de adm) mkdir (comando para criar diretorio) aula (nome do diretorio))
+
+
 
 Criando diretorios 
 mkdir /nomediretorio 
@@ -88,5 +95,73 @@ Para excluir Usuario
 Userdel -f Nome_Logon (-f é para forçar a ação )
 
 
+Para verificar os Pacotes que estao instalados na maquina
+apt list --installed
 
+
+Para verificar se existe atualizações dos pacotes instalados 
+apt list --upgradable
+
+
+Para buscar pacotes 
+apt search Nome_Pacote
+apt search net-tools
+
+
+Para instalar pacote 
+apt install net-tools
+su
+
+para remover pacotes
+apt remove net-tools
+
+
+Atualizando o sistema (Antes de atualizar primeiro criar um snapshot da maquina atual caso tenha problema restaura a maquina)
+
+apt update  (Esse primeiro comando é verificar as atualizações)--- Depois 
+apt upgrade -y (-y é para ele não pergutar se tem certeza que deseja atualizar)
+
+
+Comando para verificar discos e Partiçoes
+lsblk -o +ROTA,DISC-GRAN ou fdisk -l 
+
+
+Comando para verificar aonde estao montandos os discos
+lsblk
+
+Para copiar arquivos/Diretorios 
+cp passar o origem e destino 
+cp home/carlos/arquivo.txt /home/carlos/documentos/arquivo.txt 
+
+Para mover arquivos/Diretorios  
+mv passar o origem e destino 
+mv home/carlos/arquivo.txt /home/carlos/documentos/ (Caso eu não passe nada ele move com                          mesmo nome se eu passar algo ele renomeia)
  
+mv home/carlos/arquivo.txt /home/carlos/documentos/arq.txt (Move com o outro nome) 
+
+
+Para renomear o arquivo 
+mv arquivo_nome_original arquivo_novo_nome
+mv banco.txt banco_de_dados.txt (Renomeia o arquivo)
+
+
+Para visualizar os processos em execução 
+ps aux (a(todos usuarios) u(qual usuario) x(inicado fora do console))
+
+
+para encerrar um processo 
+kill ID_do_Processo 
+kill 3274 (Exemplo)
+
+ou podemos encerrar pelo nome
+killall chrome (Exemplo encerrando o chrome)
+
+
+
+Para desligar a maquina 
+shutdown 0
+
+
+
+
+
