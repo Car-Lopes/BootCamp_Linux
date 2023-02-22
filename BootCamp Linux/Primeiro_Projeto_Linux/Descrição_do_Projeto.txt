@@ -1,0 +1,2 @@
+Esse Script foi criado para que ao executar esse arquivo de extensão .sh 
+já crie usuarios automaticamnte, crie grupos de usuario, Crie diretorios e da as devidas permissoes aos usuarios

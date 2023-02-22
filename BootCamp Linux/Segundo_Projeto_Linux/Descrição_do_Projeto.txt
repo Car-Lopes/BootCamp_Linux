@@ -1,0 +1,7 @@
+Esse Script foi criado para que quando executado 
+Seja Atualizado o servidor
+Instale o Apache2
+Instale o Unzip
+Baixe a aplicação disponivel no endereço https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip no diretorio /tmp
+copiar os diretorios da aplicação no diretorio padrao do apache 
+Subir o arquivo para o git hub 

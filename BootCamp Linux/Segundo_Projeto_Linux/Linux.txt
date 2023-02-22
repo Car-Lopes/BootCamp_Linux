@@ -1,0 +1,34 @@
+Criei esse TXT para cola os comandos que foi feito no linux para o projeto2 de linux que foi enviado atravez da maquina virtual Linux
+
+script 
+
+#! /bin/bash
+
+echo  " Atualizando o Servidor "
+
+apt-get update -y
+apt-get upgrade -y
+
+echo  " Instalar o Apache2 "
+apt-get install apache2 -y
+
+echo  " Instalar ou descompactar " -y
+apt-get install descompacte -y
+
+echo  " Entrando no diretório tmp "
+cd /tmp
+
+echo  " Baixando o Arquivo de Aplicativo disponível "
+wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
+
+echo  " Descompactando o Arquivo "
+descompacte main.zip
+
+echo  " Abrindo o endereço Linux-site-dio "
+cd linux-site-dio-main
+
+echo  " Copiar para a pasta padrao do Apache "
+cp -R * /var/www/html/
+
+
+echo  " Fim do Script... "

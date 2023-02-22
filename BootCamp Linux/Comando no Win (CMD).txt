@@ -1,2 +1,12 @@
 comando no CMD para verificar os recursos 
 bcdedit
+
+
+comando para verificar se o site ou rede(IP) esta no ar
+Podemos pingar tanto com o ip ou com o site 
+exemplo
+
+ping www.google.com.br 
+ou 
+ping 142.251.129.131 
+

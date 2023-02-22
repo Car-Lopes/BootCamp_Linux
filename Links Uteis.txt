@@ -23,6 +23,14 @@ help.ubuntu.com
 www.redhat.com
 
 
+Documentação do SAMBA (Serviço do servidor de Arquivo)
+wiki.samba.org
 
 
 
+Apache software para WEB 
+apache.org
+
+
+Docker
+https://github.com/denilsonbonatti/toshiro-shibakita

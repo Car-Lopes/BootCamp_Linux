@@ -41,6 +41,23 @@
 
 # Primeiro Projeto Linux
  ### Script criado para executar criaçaõ de diretorio, Usuario, Grupos e Permissoes
+
+# Servidor de Arquivo 
+  ##### Instalando o Samba(Servidor de Arquivo Linux)
+  ##### Configurando o Samba o arquivo de compartilhamento 
+
+# Criando um servidor WEB com Linux
+  ##### Instalação da Aplicação Apache (Servidor WEB)
+  ##### Colocando um Site no AR(Rede Local e para qualquer lugar de acesso)
+
+# Servidor de Banco de Dados com Linux
+  ##### Instalando e acessandp o BD MySql
+
+# Segundo Projeto Linux
+  ### Script Criado para executar e atualizar o servidor, baixar o apache, baixar as aplicações e provisionar aplicação no servidor apache
+
+# Docker   
+  #### Entendendo seu funcionamento
  
 # Slides
 
