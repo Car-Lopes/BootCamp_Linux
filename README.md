@@ -65,7 +65,17 @@
  ###### Intodução ao Linux
  ###### Instalando o Linux
  ###### Acesso Remoto Maquina Linux
+ ###### Copiando, Manipulando Arquivos no Linux
+ ###### Gerenciamento de Arquivos, Pacotes, Usuarios e Disco
+ ###### Servidores de Arquivos
+ ###### Criando Servidor WEB com Apache
+ ###### Servidor de Banco de Dados
+ ###### Script Provisionamento de Servidor WEB
+ ###### Script Criação de Usuarios, Diretorios e Permissoes
+ ###### Docker na Pratica
 
+# Certificado de Conclusão do Bootcamp de Linux
+  ###### Certificado do bootcamp de Linux aonde foi conhecendo e aprendendo comandos e gerenciamentos do servidor, acesso remoto, gerenciamento de pacotes, gerenciamento de usuarios, administração do ambiente.
 
 # Links Uteis
 

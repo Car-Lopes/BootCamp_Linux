@@ -34,3 +34,9 @@ apache.org
 
 Docker
 https://github.com/denilsonbonatti/toshiro-shibakita
+
+
+Laboratorio pratico 
+https://gitlab.com/denilsonbonatti/devops-cicd-dio.me
+
+
